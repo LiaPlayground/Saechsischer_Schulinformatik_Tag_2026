@@ -17,7 +17,7 @@ Der Workshop folgt dem Prinzip **"Ein Dokument für alles"**: Die Präsentation 
 
 ## Kurs anzeigen
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/Saechsischer_Schulinformatik_Tag_2026/refs/heads/main/lia_tutorial.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Saechsischer_Schulinformatik_Tag_2026/refs/heads/main/lia_tutorial.md#1)
 
 ## Autoren
 
