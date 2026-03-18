@@ -89,6 +89,8 @@ Was wollen wir heute erreichen?
 
 > <!-- Style="color:green" -->__Sie sehen diesen Kurs gerade in OPAL. Klicken Sie sich durch die folgenden Abschnitte und probieren Sie alles selbst aus!__
 
+https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53657829377/CourseNode/1773805219037642010?5
+
 ### Quiz
 
 Testen Sie Ihr Wissen — die Antworten werden direkt im Browser ausgewertet:
